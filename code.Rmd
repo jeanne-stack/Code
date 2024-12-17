@@ -7,5 +7,7 @@ output: html_document
 ```{r}
 "Intervalle de confiance et tests d'hypothèses"
 x<-rnorm(100,0,1)
+
+"Loi normale et loi de student"
 ```
 
