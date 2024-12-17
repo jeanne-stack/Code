@@ -1,0 +1,11 @@
+---
+title: "CODE"
+author: "Jeanne MEDENOU"
+date: '2024-12-17'
+output: html_document
+---
+```{r}
+"Intervalle de confiance et tests d'hypothèses"
+x<-rnorm(100,0,1)
+```
+
